@@ -9,3 +9,10 @@ Consulta ordenada ascendente resultado!
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109769171/219437446-0b4cfe13-13b4-423a-ace7-1a4e1d7c7fcf.jpeg" width="800px" />
 </div>
+
+
+<br>
+Consulta ordenada descendente resultado!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109769171/219485335-964d7f7a-8910-4ece-9d19-28e912e197bf.jpeg" width="800px" />
+</div>
